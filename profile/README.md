@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/The-Solaris-Mission/.github/blob/main/logo.png">
+  <img src="https://github.com/The-Solaris-Mission/.github/blob/main/logo.png" alt="Solaris Logo" width="570">
 </div>
+
 # Welcome to SOLARIS 🌌
 
 ## Society for Outer Life and Advanced Research on Interstellar Settlements
