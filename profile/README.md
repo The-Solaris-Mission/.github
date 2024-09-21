@@ -1,8 +1,9 @@
+<div align="center">
+  <img src="https://github.com/The-Solaris-Mission/.github/blob/main/logo.png">
+</div>
 # Welcome to SOLARIS 🌌
 
 ## Society for Outer Life and Advanced Research on Interstellar Settlements
-
-![SOLARIS Logo](https://drive.google.com/file/d/18OP_gO2j_MwRm7YGDpvPMLMaRPjwAARA/view?usp=sharing)
 
 **"Humanity was born on Earth, but it was never meant to die here."**
 
