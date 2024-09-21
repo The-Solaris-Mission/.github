@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/The-Solaris-Mission/.github/blob/main/logo.png" alt="Solaris Logo" width="570">
+  <img src="https://github.com/The-Solaris-Mission/.github/blob/main/logo.png" alt="Solaris Logo" width="470">
 </div>
 
 # Welcome to SOLARIS 🌌
