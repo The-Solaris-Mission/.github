@@ -2,7 +2,7 @@
 
 ## Society for Outer Life and Advanced Research on Interstellar Settlements
 
-![SOLARIS Logo](https://ibb.co/H4TvHrv)
+![SOLARIS Logo](https://drive.google.com/file/d/18OP_gO2j_MwRm7YGDpvPMLMaRPjwAARA/view?usp=sharing)
 
 **"Humanity was born on Earth, but it was never meant to die here."**
 
